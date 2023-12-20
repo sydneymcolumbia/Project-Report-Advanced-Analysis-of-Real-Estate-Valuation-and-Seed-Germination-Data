@@ -18,6 +18,9 @@ Box-Cox Transformation: The Box-Cox method was applied to find the optimal power
 Regression with Transformed Response Variable: A multiple linear regression model was fitted with the transformed response variable unit_priceλ.
 Diagnostic Plot Re-Evaluation: Diagnostic plots were recreated for the new model to assess improvements post Box-Cox transformation.
 Influence Analysis: The influence.measures function in R was used to compute DFBETAs for the predictors, identifying influential observations.
+
+
+
 Part II: Seed Germination Analysis
 
 Overview
